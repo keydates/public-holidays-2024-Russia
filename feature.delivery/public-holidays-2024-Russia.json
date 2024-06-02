@@ -1,0 +1,71 @@
+{
+  "product": "Russia Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "International Women's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-03-08T12:00:00",
+      "endDate": "2024-03-08T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "pink",
+      "description": "Celebration of women's achievements and contributions"
+    },
+    {
+      "title": "May Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "green",
+      "description": "International Workers' Day"
+    },
+    {
+      "title": "Victory Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-09T12:00:00",
+      "endDate": "2024-05-09T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "red",
+      "description": "Commemoration of the victory over Nazi Germany"
+    },
+    {
+      "title": "Russia Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-12T12:00:00",
+      "endDate": "2024-06-12T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "white",
+      "description": "National holiday celebrating the Russian Federation"
+    },
+    {
+      "title": "Unity Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-04T12:00:00",
+      "endDate": "2024-11-04T12:00:00",
+      "source": "Government of Russia",
+      "product": "Russia Public Holidays 2024",
+      "style": "orange",
+      "description": "Celebration of unity and independence"
+    }
+  ]
+}
